@@ -1,5 +1,7 @@
 # malibu
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/faizulho/malibu.svg)](https://greenkeeper.io/)
+
 This is a node sample application, build with the quintype node framework.
 
 ## toddy-libs
